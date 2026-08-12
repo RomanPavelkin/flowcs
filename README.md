@@ -1,7 +1,7 @@
 # Flow-Based Generative Modeling for Optimizing Sampling Policies in Compressed Sensing Applications
 
 Code for the paper *"Flow-Based Generative Modeling for Optimizing Sampling
-Policies in Compressed Sensing Applications."* [arXiv:2606.00078](https://arxiv.org)
+Policies in Compressed Sensing Applications."* [https://doi.org/10.48550/arXiv.2606.00078]
 
 ## Abstract
 
@@ -159,7 +159,7 @@ If you use this code, please cite the paper:
 @article{flowcs2026,
   title   = {Flow-Based Generative Modeling for Optimizing Sampling Policies in Compressed Sensing Applications},
   author  = {Roman Pavelkin, Luis A. Zavala-Mondragon, Christiaan G. A. Viviers, Fons van der Sommen},
-  journal = {arXiv preprint arXiv:2606.00078},
+  journal = {arXiv preprint https://doi.org/10.48550/arXiv.2606.00078},
   year    = {2026}
 }
 ```
